@@ -1,0 +1,2 @@
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\x64\Debug\GDADPRG_MP.exe
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\x64\Debug\GDADPRG_MP.pdb

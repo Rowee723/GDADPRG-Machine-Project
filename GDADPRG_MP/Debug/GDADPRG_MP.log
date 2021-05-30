@@ -1,0 +1,62 @@
+﻿  AComponent.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AComponent.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  AGameObject.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  AirplanePlayer.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  AirplaneSpike.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  AirplaneSpikeMovement.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  AirplaneSupport.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  AirplaneSupportMovement.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  APoolable.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ApplicationManager.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\ApplicationManager.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  AView.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  BaseRunner.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\BaseRunner.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  BGObject.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  BGObjectMovement.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ButtonListener.cpp
+  Entity.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\Entity.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameObjectManager.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\GameObjectManager.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameObjectPool.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GenericInputController.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AComponent.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Main.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\BaseRunner.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  MainMenuScreen.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  PauseButton.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  PlayerInputController.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  PlayerMovement.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AComponent.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  PopUpWindow.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  RaptorMovement.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  RaptorWave.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  TextureManager.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\TextureManager.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  UIButton.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  UIButtonInputController.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AComponent.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  UIText.cpp
+C:\Users\roitr\Documents\ProjectFiles\GDADPRG\GDADPRG_MP\GDADPRG-Machine-Project\GDADPRG_MP\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
